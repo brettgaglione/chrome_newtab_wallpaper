@@ -11,12 +11,6 @@
   "chrome_url_overrides": {
     "newtab": "blank.html"
   },
-  "icons": {
-    "16": "./icon.png",
-    "32": "./icon.png",
-    "48": "./icon.png",
-    "128": "./icon.png"
-  },
   "permissions": [
   	"*://*.bing.com/*"
   ],
